@@ -1,0 +1,12 @@
+*.manifest
+*.pdb
+*.exe
+*.obj
+*.suo
+*.orig
+ipch
+*.sdf
+*.opensdf
+*.vsp
+*.psess
+*.user
